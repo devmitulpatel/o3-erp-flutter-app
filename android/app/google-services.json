@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974648398008",
+    "project_id": "o3erp-fff6e",
+    "storage_bucket": "o3erp-fff6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974648398008:android:219d4f52305ef3ac59e44d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.o3erp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974648398008-5dgauumlden1s8gcd2u0824aqj2t8ofi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwO4X9b1Zyg-7cSZ57WubgcD0ekZVrbq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974648398008-5dgauumlden1s8gcd2u0824aqj2t8ofi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
